@@ -25,7 +25,7 @@ class DiglotMenu extends HTMLElement {
 <span class="LCOldTestament">
 <sub>OLD TESTAMENT</sub>
 <br/>
-<b>LUMANG TIPAN</b><br/><br/>
+<b>ANTIGUO TESTAMENTO</b><br/><br/>
   </span></div><div class="books" id="divOLDbg">
             <a href="../OldTestament/01-genesis.html"><div class="BMONTgenesis divgenesis"><span class="english englishLabel">Genesis</span><br/><span class="tagalogleft tagalogLabel">Genesis</span></div></a>
             <a href="../OldTestament/02-exodus.html"><div class="BMONTexodus divexodus"><span class="english englishLabel">Exodus</span><br/><span class="tagalogleft tagalogLabel">Exodo</span></div></a>
@@ -70,7 +70,7 @@ class DiglotMenu extends HTMLElement {
 </div>
 <div id="NEWTB">
 <br/>
-<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>BAGONG TIPAN</b><br/><br/></span></div><div class="books" id="divNEWbg">
+<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>NUEVO TESTAMENTO</b><br/><br/></span></div><div class="books" id="divNEWbg">
               <a href="../NewTestament/40-matthew.html"><div class="BMONTmatthew divmatthew"><span class="english englishLabel">Matthew</span><br/><span class="tagalogleft tagalogLabel">Mateo</span></div></a>
             <a href="../NewTestament/41-mark.html"><div class="BMONTmark divmark"><span class="english englishLabel">Mark</span><br/><span class="tagalogleft tagalogLabel">Marcos</span></div></a>
             <a href="../NewTestament/42-luke.html"><div class="BMONTluke divluke"><span class="english englishLabel">Luke</span><br/><span class="tagalogleft tagalogLabel">Lucas</span></div></a>

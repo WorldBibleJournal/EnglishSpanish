@@ -24,7 +24,7 @@ this.innerHTML = `<div id="MenuContainer">  <div class="BibleChaptersMenu" id="b
       <span class="LCOldTestament">
         <sub>OLD TESTAMENT</sub>
         <br />
-        <b>LUMANG TIPAN</b><br /><br />
+        <b>ANTIGUO TESTAMENTO</b><br /><br />
       </span>
     </div>    <div class="books" id="divOLDbg">
       <a href="../OldTestament/01-genesis.html">
@@ -146,7 +146,7 @@ this.innerHTML = `<div id="MenuContainer">  <div class="BibleChaptersMenu" id="b
       </a>    </div>
     <div id="NEWTB">
       <br />
-      <span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>BAGONG TIPAN</b><br /><br /></span>
+      <span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>NUEVO TESTAMENTO</b><br /><br /></span>
     </div>    <div class="books" id="divNEWbg">
       <a href="../NewTestament/40-matthew.html">
         <div class="BMONTmatthew divmatthew"><span class="english englishLabel">Matthew</span><br /><span class="tagalogleft tagalogLabel">Mateo</span></div>

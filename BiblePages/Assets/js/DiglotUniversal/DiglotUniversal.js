@@ -686,7 +686,7 @@ class DiglotMenu extends HTMLElement {
 <span class="LCOldTestament">
 <sub>OLD TESTAMENT</sub>
 <br/>
-<b>LUMANG TIPAN</b><br/><br/>
+<b>ANTIGUO TESTAMENTO</b><br/><br/>
   </span></div>
 
 <div class="books" id="divOLDbg">
@@ -733,7 +733,7 @@ class DiglotMenu extends HTMLElement {
 </div>
 <div id="NEWTB">
 <br/>
-<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>BAGONG TIPAN</b><br/><br/></span></div>
+<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>NUEVO TESTAMENTO</b><br/><br/></span></div>
 
 <div class="books" id="divNEWbg">
               <a href="../NewTestament/40-matthew.html"><div class="BMONTmatthew divmatthew"><span class="english englishLabel">Matthew</span><br/><span class="tagalogleft tagalogLabel">Mateo</span></div></a>
@@ -849,7 +849,7 @@ class DiglotMenuIndex extends HTMLElement {
 <span class="LCOldTestament">
 <sub>OLD TESTAMENT</sub>
 <br/>
-<b>LUMANG TIPAN</b><br/><br/>
+<b>ANTIGUO TESTAMENTO</b><br/><br/>
   </span></div>
 
 <div class="books" id="divOLDbg">
@@ -897,7 +897,7 @@ class DiglotMenuIndex extends HTMLElement {
 </div>
 <div id="NEWTB">
 <br/>
-<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>BAGONG TIPAN</b><br/><br/></span></div>
+<span class="LCNewTestament"><sub>NEW TESTAMENT</sub><br><b>NUEVO TESTAMENTO</b><br/><br/></span></div>
 
 <div class="books" id="divNEWbg">
             <a href="BiblePages/NewTestament/40-matthew.html"><div class="BMONTmatthew divmatthew"><span class="english englishLabel">Matthew</span><br/><span class="tagalogleft tagalogLabel">Mateo</span></div></a>

@@ -1,0 +1,19 @@
+body{
+margin:0;
+padding:0;
+
+
+line-height:1.5;
+
+overflow:hidden;
+
+
+}
+
+#main-wrapper{
+    width: 100vw;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+

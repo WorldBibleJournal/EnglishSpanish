@@ -676,7 +676,7 @@ class DiglotMenu extends HTMLElement {
   </span>
 <br/>
 <span class="bibleduo">
- KJV - Ang Biblia
+ KJV - Santa Biblia Reina Valera 1909
   </span>
   <hr/>
   </div>
@@ -840,7 +840,7 @@ class DiglotMenuIndex extends HTMLElement {
   </span>
 <br/>
 <span class="bibleduo">
- KJV - Ang Biblia
+ KJV - Santa Biblia Reina Valera 1909
   </span>
   <hr/>
   </div>
@@ -938,7 +938,7 @@ class DiglotMenuIndex extends HTMLElement {
 <div class="OtherMenu" id="more-links">
    <!-- Facebook -->
    <!-- Facebook Share -->
-   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fworldbiblejournal.github.io%2FSpanishEnglish%2F"
+   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fworldbiblejournal.github.io%2FEnglishSpanish%2F"
       onclick="window.open(this.href, 'fbshare', 'width=600,height=400'); return false;"
       style="color: blue; text-decoration: underline;">
       <div>
@@ -946,7 +946,7 @@ class DiglotMenuIndex extends HTMLElement {
       </div>
    </a>
    <!-- Twitter / X -->
-   <a href="https://x.com/intent/tweet?text=Read+Bible+Online+Bible+Journal&url=https%3A%2F%2Fworldbiblejournal.github.io%2FSpanishEnglish%2F&hashtags=BibleOnlineReader&via=WBibleJournal&related=%40WBibleJournal"
+   <a href="https://x.com/intent/tweet?text=Read+Bible+Online+Bible+Journal&url=https%3A%2F%2Fworldbiblejournal.github.io%2FEnglishSpanish%2F&hashtags=BibleOnlineReader&via=WBibleJournal&related=%40WBibleJournal"
       onclick="window.open(this.href, 'twshare', 'width=600,height=400'); return false;">
       <div>
    

@@ -16,7 +16,7 @@ class DiglotMenuFocused extends HTMLElement {
   </span>
 <br/>
 <span class="bibleduo">
- KJV - Ang Biblia
+ KJV - Santa Biblia Reina Valera 1909
   </span>
   <hr/>
   </div>
